@@ -20,7 +20,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost/open_mediation?useCursorFetch=true&characterEncoding=utf8&useSSL=true&requireSSL=false&serverTimezone=GMT
     username: root
-    password: 19811025
+    password: 12345678
     dbcp2:
       max-total: 320
       min-idle: 5
